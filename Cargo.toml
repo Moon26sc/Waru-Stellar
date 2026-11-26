@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = ["contracts/waru"]
+
+[workspace.package]
+edition = "2021"
+license = "UNLICENSED"
+rust-version = "1.93"
